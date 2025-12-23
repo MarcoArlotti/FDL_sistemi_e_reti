@@ -1,1 +1,1 @@
-messaggio = suca
+messaggio = greve
